@@ -1,0 +1,96 @@
+<html>
+  <header style=background-color:black>
+<p>.</p>    
+<p style='color:purple;font-size:0px'>.
+</p>
+    <h1 style="background-color:black;font-size:60px;color:white;text-align:center">КинОценка - сайт для оценки кино
+    </h1>
+<p>.</p>
+	<p>.</p>
+	</header>
+  <main>
+    <h2 style="text-align:center;font-size:45px">Назад в будущее
+    <br>
+	<img src="assets/Снимок экрана 2026-11-14 134933.png">
+</h2>
+    <h1 style="font-size:40px">О фильме
+    </h1>
+    <table>
+      <tr>
+<td style="border: 2px solid black;font-size:50px;width:450px">Год производства
+</td>        
+<td style="border: 2px solid black;;font-size:50px">1985
+</td>
+</tr>
+<td style="border: 2px solid black;;font-size:45px">Режиссёр
+</td>
+  <td style="border: 2px solid black;width:450px;font-size:50px;text-align:center">Роберт Земекис 
+  </td>
+<tr>
+<td style="border: 2px solid black;;font-size:45px">Страна
+</td>
+  <td style="border: 2px solid black;width:150px;font-size:50px;text-align:center">США
+  </td>
+</tr>
+<tr>
+<td style="border: 2px solid black;font-size:45px">Жанр
+</td>
+  <td style="border: 2px solid black;font-size:50px;text-align:center">Комедия, научная фантастика, приключения
+  </td>
+</tr>
+</table>
+    <h1 style="font-size: 40px">Оценка
+    </h1>
+<h1>
+<b style="color:#04A307; font-size: 80px">8.5
+</b>
+  /10 - отличная оценка!
+</h1>
+<h1 style="font-size:40px"> Описание
+</h1>
+<p style="font-size:30px">
+17-летний старшеклассник Марти Макфлай случайно отправляется на 30 лет в прошлое на машине времени, сделанной из автомобиля DeLorean, которую изобрёл его близкий друг, эксцентричный учёный Док Браун
+    </p>
+    <h1 style="font-size:40px">Кадры из фильма
+    </h1>
+	<img src="assets/MV5BMjA4MzI0NzI3MF5BMl5BanBnXkFtZTcwOTc4Mzg0OQ@@._V1_QL75_UX492_.jpg">
+<img src="assets/Снимок экрана 2026-11-14 140805.png"  width="1000px" height="750px">
+<img src="assets/Снимок экрана 2026-11-14 140715.png" width="1000px" height="750px">
+  <h1 style="font-size:40px">Отзывы кинокритиков
+  </h1>
+<table style="background-color:lightgreen;font-size:35px">
+<tr>
+<td style="border: 2px solid black">
+  <b>Александр</b>
+  </td>
+  </tr>
+  <tr>
+<td style="border: 2px solid black">
+Сколько себя помню, столько и пересматриваю этот потрясающий фильм про путешествия во времени. Каждый раз, когда включаю, хотя и знаю уже все повороты сюжета наперед, а все равно переживаю за героев. Этот фильм никогда не перестанет меня восхищать. Этот классный парень Марти и чудаковатый Док Браун — просто идеальный дуэт, жаль, что Майкл Дж. Фокс рано ушел из большого кино из-за болезни, но «Назад в будущее» — культовый фильм на все времена.
+    </td>
+    <td style="border:2px solid black">Оценка: 9.3/10
+    </td>
+</tr>
+  </table>
+<table style="background-color:red;font-size:35px">
+<tr>
+<td style="border: 2px solid black">
+  <b>Константин</b>
+  </td>
+  </tr>
+  <tr>
+<td style="border: 2px solid black">
+Сколько себя помню, мне этот фильм не нравился, слишком он скучный и разтянутый. Это его две главные проблемы, был бы он чуть более динамичный оценка была бы выше. 
+    </td>
+    <td style="border:2px solid black">Оценка: 4.2/10
+    </td>
+</tr>
+  </table>
+  </main>
+  <footer style="background-color:black;color:white">
+    <h1 style="font-size:40px; text-align:center">Автор сайта: Тимофей</h1>
+    <p style="text-align:center; font-size:35px">2026 г.</p>
+    <p style="font-size:0px">.</p>
+<p style="font-size:0px">.</p>
+</footer>
+</html>
